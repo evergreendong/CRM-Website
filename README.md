@@ -16,7 +16,7 @@ This is a customer relation management system website. It has full CRUD function
 
 
 
-#### ***Add a customer
+#### ***Add a customer 
 ![add1](https://user-images.githubusercontent.com/70967683/223873339-bfff367b-bea8-4272-9752-f5bee92e3e66.jpg)
 ![add2](https://user-images.githubusercontent.com/70967683/223873342-58032525-a153-4ec1-b3a1-7e32d515ba7f.jpg)
 ![add3](https://user-images.githubusercontent.com/70967683/223873343-f75e9359-cd0d-4094-a965-51084a48e097.jpg)
