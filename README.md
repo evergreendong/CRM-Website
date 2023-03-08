@@ -27,3 +27,14 @@ This is a customer relation management system website. It has full CRUD function
 ![Delete2](https://user-images.githubusercontent.com/70967683/223874119-9b1731f7-755b-4335-b3f1-74ddf1ddef90.jpg)
 ![Delete3](https://user-images.githubusercontent.com/70967683/223874122-f626647a-6145-4418-92f7-f7ea38928905.jpg)
 
+
+#### ***Search a customer
+![search1](https://user-images.githubusercontent.com/70967683/223874429-75f51d90-3831-47f0-adcd-62312228839d.jpg)
+![search2](https://user-images.githubusercontent.com/70967683/223874430-9114f684-b147-4caa-bd7b-377a2d1c8ddb.jpg)
+
+
+#### ***Update a customer
+![Update1](https://user-images.githubusercontent.com/70967683/223874535-725da5de-0ce6-449d-aaf6-e9f59d9b4c63.jpg)
+![Update2](https://user-images.githubusercontent.com/70967683/223874529-c7ad5cd4-e685-4f30-a5ea-423a64ef1fe8.jpg)
+![Update3](https://user-images.githubusercontent.com/70967683/223874533-d34e19d5-c63e-4d34-bd01-37f59f7142c7.jpg)
+
