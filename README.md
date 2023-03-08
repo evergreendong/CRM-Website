@@ -10,12 +10,13 @@ This is a customer relation management system website. It has full CRUD function
 
 ### Project Demostration
 
-Interface Homepage
+##Interface Homepage
 
 ![HomePage](https://user-images.githubusercontent.com/70967683/223872371-c916094a-4418-4f8b-b8c3-b44ec6d04b1e.jpg)
 
-Add a customer
 
-![add1](https://user-images.githubusercontent.com/70967683/223872465-88d7f1b2-4f6e-47ed-a895-966c994d6679.jpg)
-![add2](https://user-images.githubusercontent.com/70967683/223872467-a5e207e3-156a-4e7f-a327-0faad1c86f96.jpg)
-![add3](https://user-images.githubusercontent.com/70967683/223872471-b545b9d0-0a52-42d8-bb5f-c0f0bfddc194.jpg)
+###Add a customer
+
+![add2](https://user-images.githubusercontent.com/70967683/223873144-1c83ae76-e24f-45b6-804f-277b776a307e.jpg)
+![add3](https://user-images.githubusercontent.com/70967683/223873151-c787bde4-c48c-4e7e-9ea9-9f33c3ab4f84.jpg)
+![add1](https://user-images.githubusercontent.com/70967683/223873153-ea63fefe-159e-44bf-95e4-50ac386c35ab.jpg)
