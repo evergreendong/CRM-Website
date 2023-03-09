@@ -1,6 +1,6 @@
 ### CRM-Website Introduction
 
-This is a customer relation management system website. It has full CRUD functionlities, which include create, retrieve, update and delete customer information
+This is a customer relation management system website that offers full CRUD functionalities, allowing users to create, retrieve, update, and delete customer information
  
 ### How to run the application
 
