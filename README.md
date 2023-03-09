@@ -15,6 +15,8 @@ This is a customer relation management system website that offers full CRUD func
 ![HomePage](https://user-images.githubusercontent.com/70967683/223872371-c916094a-4418-4f8b-b8c3-b44ec6d04b1e.jpg)
 
 
+========================================================================================================================================================================
+
 
 #### *Add a customer 
 ![add1](https://user-images.githubusercontent.com/70967683/223873339-bfff367b-bea8-4272-9752-f5bee92e3e66.jpg)
@@ -22,6 +24,7 @@ This is a customer relation management system website that offers full CRUD func
 ![add3](https://user-images.githubusercontent.com/70967683/223873343-f75e9359-cd0d-4094-a965-51084a48e097.jpg)
 
 
+========================================================================================================================================================================
 
 
 #### *Delete a customer
@@ -30,6 +33,7 @@ This is a customer relation management system website that offers full CRUD func
 ![Delete3](https://user-images.githubusercontent.com/70967683/223874122-f626647a-6145-4418-92f7-f7ea38928905.jpg)
 
 
+========================================================================================================================================================================
 
 
 #### *Search a customer
@@ -37,6 +41,7 @@ This is a customer relation management system website that offers full CRUD func
 ![search2](https://user-images.githubusercontent.com/70967683/223874430-9114f684-b147-4caa-bd7b-377a2d1c8ddb.jpg)
 
 
+========================================================================================================================================================================
 
 
 #### *Update a customer
